@@ -10,7 +10,7 @@ Open the [latest release](https://github.com/SmallestDev/mononote-releases/relea
 ## Updates
 Both apps include an automatic update system.
 
-When a new version is released, the apps check for updates when launched and download the latest version automatically. On Windows, the update is applied when you restart Mononote or while it isn't in use, in the same place, so your shortcuts and taskbar pin keep working. On Android, tap "Install" when asked.
+When a new version is released, the apps check for updates when launched and download the latest version automatically. On Windows, an update found when you open Mononote is installed right away and the app reopens by itself; one found later is installed while Mononote isn't in use. It is installed in the same place, so your shortcuts and taskbar pin keep working. On Android, tap "Install" when asked.
 
 ## Installation
 ### Windows
@@ -23,6 +23,8 @@ When a new version is released, the apps check for updates when launched and dow
 To uninstall, open Settings → Apps → Mononote. Your library is kept, so reinstalling picks up where you left off.
 
 `Mononote-windows-<version>.zip` is used by the automatic updater. You don't need to download it.
+
+`Cyanote-windows-<version>.zip` and `Cyanote-android-<version>.apk` are copies for installs from before the app was renamed (it used to be called Cyanote), so they can update to Mononote. You don't need them.
 
 ### Android
 1. Download `Mononote-android-<version>.apk` on your phone
