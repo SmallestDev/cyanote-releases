@@ -1,4 +1,4 @@
-# Cyanote
+# Mononote
 
 Releases of **Cyanote**, a personal music player for PC and Android.
 
